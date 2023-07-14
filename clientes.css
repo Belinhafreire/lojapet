@@ -1,0 +1,17 @@
+*{margin: 0; padding: 0;}
+body{
+    font-family: arial, helvetica, sans-serif;
+    font-size: 15px;
+    font-style: italic;
+    font-style: inherit;
+    background-image: url(Website\ Gamer\ Pessoal\ Tecnologia\ Ousado\ Preto\ e\ Laranja.png);
+    background-size: cover;
+    }
+    h1{
+        color: rgba(0, 0, 2, 0.986);
+        font-size:x-large ;
+        text-align: left;
+        font-size: 30px;
+        font-style: italic;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
